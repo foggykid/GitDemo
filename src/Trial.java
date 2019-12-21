@@ -19,5 +19,8 @@ public class Trial {
 	}
 System.out.println("new development made after importing the code from GitX");
 System.out.println("change2");
+
+System.out.println("adding multiple branch section1");
+System.out.println("adding multiple branch section2");
 }
 }
